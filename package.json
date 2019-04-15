@@ -9,6 +9,7 @@
 		"url": "https://www.kmanikumarreddy.com"
 	},
 	"description": "A project to relearn node from scratch",
+	"keywords": [ "freecodecamp", "learn node", "yemkay", "starter" ],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
