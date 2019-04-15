@@ -10,6 +10,7 @@
 	},
 	"description": "A project to relearn node from scratch",
 	"keywords": [ "freecodecamp", "learn node", "yemkay", "starter" ],
+	"license": "MIT",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
